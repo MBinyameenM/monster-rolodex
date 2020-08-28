@@ -1,0 +1,2 @@
+.card { background: linear-gradient(45deg, orange, red); height: 400px; }
+.card:hover { cursor: pointer; transform: scale(1.02); }

@@ -1,0 +1,9 @@
+input 
+{
+    color: dodgerblue !important;
+    border: none !important;
+    border-bottom: 3px solid #ced4da !important;
+    box-shadow: none !important;
+    line-height: 50px !important;
+    background: transparent !important;
+}
